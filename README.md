@@ -1,7 +1,7 @@
-# Sample Asymmetric Encryption
+# ODBC Samples Program
 Copyright (c) 2016 Sathyanesh Krishnan. All rights reserved.
 
-Licensed under the Apache License, Version 2.0;
+Licensed under the Apache License, Version 2.0
 
 
 
